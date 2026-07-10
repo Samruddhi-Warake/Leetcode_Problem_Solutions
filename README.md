@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
