@@ -62,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
