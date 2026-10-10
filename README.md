@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -16,12 +17,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
