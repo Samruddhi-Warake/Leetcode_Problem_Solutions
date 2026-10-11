@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
