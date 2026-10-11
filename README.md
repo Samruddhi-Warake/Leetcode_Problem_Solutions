@@ -47,6 +47,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -86,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
