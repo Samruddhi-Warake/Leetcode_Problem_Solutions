@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -20,6 +21,7 @@
 | [0011-container-with-most-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
@@ -32,6 +34,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -53,6 +56,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -94,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
