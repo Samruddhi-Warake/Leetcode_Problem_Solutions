@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
@@ -100,8 +102,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
