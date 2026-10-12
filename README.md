@@ -23,6 +23,7 @@
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0125-valid-palindrome](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
