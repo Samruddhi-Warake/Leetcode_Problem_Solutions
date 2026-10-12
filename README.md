@@ -33,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@
 | [0001-two-sum](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
