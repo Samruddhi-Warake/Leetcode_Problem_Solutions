@@ -105,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0052-n-queens-ii](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -118,4 +119,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
