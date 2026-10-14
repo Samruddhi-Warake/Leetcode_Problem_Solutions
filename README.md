@@ -119,6 +119,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,8 +144,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
