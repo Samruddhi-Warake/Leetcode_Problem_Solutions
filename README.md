@@ -121,6 +121,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,15 +148,18 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
