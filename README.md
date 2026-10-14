@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0079-word-search/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +139,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
