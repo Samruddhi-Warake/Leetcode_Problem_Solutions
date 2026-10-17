@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -169,4 +170,8 @@
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
