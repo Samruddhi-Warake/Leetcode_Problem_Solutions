@@ -18,6 +18,7 @@
 | [0875-koko-eating-bananas](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +168,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
