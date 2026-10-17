@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,8 @@
 | [0100-same-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Samruddhi-Warake/Leetcode_Problem_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
